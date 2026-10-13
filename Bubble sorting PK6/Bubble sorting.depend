@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1740933562 source:c:\users\user\desktop\Прога\bubble sorting\main.cpp
+	<iostream>
+
+1791865650 source:c:\users\user\desktop\Прога\bubble sorting\sorting.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
